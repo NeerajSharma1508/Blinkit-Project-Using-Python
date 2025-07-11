@@ -1,7 +1,7 @@
 # Blinkit Sales Analysis <br>
-This repository contains a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The <br>analysis identifies key insights and opportunities for optimization using various Key Performance Indicators (KPIs) and visualizations<br> in Python.<br>
+This repository contains a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. <br> The analysis identifies key insights and opportunities for optimization using various Key Performance Indicators (KPIs) and visualizations in Python.<br>
 
-##Table of Contents<br>
+## Table of Contents<br>
 1. Business Requirement<br>
 2. KPIs Requirements<br>
 3. Chart Requirements<br>
@@ -12,10 +12,9 @@ This repository contains a comprehensive analysis of Blinkit's sales performance
 8. Results<br>
 9. Contributing<br>
 10. Contact Information<br>
-11. License<br>
 
 ### 1.Business Requirement<br>
-The primary objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and<br> inventory distribution to identify key insights and opportunities for optimization. This is achieved by calculating various KPIs <br>and generating insightful visualizations using Python.<br>
+The primary objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, <br> and inventory distribution to identify key insights and opportunities for optimization. This is achieved by calculating various KPIs and <br> generating insightful visualizations using Python.<br>
 
 ### 2.KPIs Requirements<br>
 The following Key Performance Indicators (KPIs) were calculated:<br>
@@ -27,8 +26,8 @@ The following Key Performance Indicators (KPIs) were calculated:<br>
 ### 3.Chart Requirements<br>
 The analysis includes the following visualizations:<br>
 a) Total Sales by Fat Content:<br>
-     Objective: Analyze the impact of fat content on total sales.<br>
-     Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
+&nbsp;&nbsp;&nbsp;Objective: Analyze the impact of fat content on total sales.<br>
+&nbsp;&nbsp;&nbsp;Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
      Chart Type: Donut Chart.<br>
 b) Total Sales by Item Type:<br>
      Objective: Identify the performance of different item types in terms of total sales.<br>
@@ -115,6 +114,3 @@ For any questions or inquiries, please contact:<br>
 • Name: NeerajSharma1508<br>
 • Email: neerukct15@gmail.com<br>
 • LinkedIn: [https://www.linkdin.com/](https://www.linkedin.com/in/ineerajsharma15/)<br>
-
-### 11.License<br>
-This project is licensed under the MIT License. See the LICENSE file for details.<br>
