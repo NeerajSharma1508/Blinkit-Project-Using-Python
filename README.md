@@ -28,24 +28,24 @@ The analysis includes the following visualizations:<br>
 a) Total Sales by Fat Content:<br>
 &nbsp;&nbsp;&nbsp;Objective: Analyze the impact of fat content on total sales.<br>
 &nbsp;&nbsp;&nbsp;Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
-     Chart Type: Donut Chart.<br>
+&nbsp;&nbsp;&nbsp;Chart Type: Donut Chart.<br>
 b) Total Sales by Item Type:<br>
-     Objective: Identify the performance of different item types in terms of total sales.<br>
-     Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
-     Chart Type: Bar Chart.<br>
+&nbsp;&nbsp;&nbsp;Objective: Identify the performance of different item types in terms of total sales.<br>
+&nbsp;&nbsp;&nbsp;Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
+&nbsp;&nbsp;&nbsp;Chart Type: Bar Chart.<br>
 c) Fat Content by Outlet for Total Sales:<br>
-     Objective: Compare total sales across different outlets segmented by fat content.<br>
-     Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
-     Chart Type: Stacked Column Chart.<br>
+&nbsp;&nbsp;&nbsp;Objective: Compare total sales across different outlets segmented by fat content.<br>
+&nbsp;&nbsp;&nbsp;Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.<br>
+&nbsp;&nbsp;&nbsp;Chart Type: Stacked Column Chart.<br>
 d) Total Sales by Outlet Establishment:<br>
-     Objective: Evaluate how the age or type of outlet establishment influences total sales.<br>
-     Chart Type: Line Chart.<br>
+&nbsp;&nbsp;&nbsp;Objective: Evaluate how the age or type of outlet establishment influences total sales.<br>
+&nbsp;&nbsp;&nbsp;Chart Type: Line Chart.<br>
 e) Sales by Outlet Size:<br>
-     Objective: Analyze the correlation between outlet size and total sales.<br>
-     Chart Type: Donut/Pie Chart.<br>
+&nbsp;&nbsp;&nbsp;Objective: Analyze the correlation between outlet size and total sales.<br>
+&nbsp;&nbsp;&nbsp;Chart Type: Donut/Pie Chart.<br>
 f) Sales by Outlet Location:<br>
-     Objective: Assess the geographic distribution of sales across different locations.<br>
-     Chart Type: Funnel Map (though a bar plot was used in the provided code for this objective).<br>
+&nbsp;&nbsp;&nbsp;Objective: Assess the geographic distribution of sales across different locations.<br>
+&nbsp;&nbsp;&nbsp;Chart Type: Funnel Map (though a bar plot was used in the provided code for this objective).<br>
 
 ### 4.Dataset<br>
 The analysis uses the blinkit_data.csv dataset. The dataset contains the following columns:<br>
@@ -84,17 +84,17 @@ The following KPIs were calculated and printed:<br>
 
 #### B) Charts Generated<br>
 a) Total Sales by Fat Content (Donut Chart)<br>
-Shows the proportion of sales contributed by 'Regular' and 'Low Fat' items.<br>
+&nbsp;&nbsp;&nbsp;Shows the proportion of sales contributed by 'Regular' and 'Low Fat' items.<br>
 b) Total Sales by Item Type (Bar Chart)<br>
-Displays total sales for each item type, sorted in descending order.<br>
+&nbsp;&nbsp;&nbsp;Displays total sales for each item type, sorted in descending order.<br>
 c) Fat Content by Outlet for Total Sales (Stacked Column Chart)<br>
-Compares total sales across different Outlet Location Types, segmented by Item Fat Content.<br>
+&nbsp;&nbsp;&nbsp;Compares total sales across different Outlet Location Types, segmented by Item Fat Content.<br>
 d) Total Sales by Outlet Establishment (Line Chart)<br>
-Illustrates the trend of total sales over Outlet Establishment Year.<br>
+&nbsp;&nbsp;&nbsp;Illustrates the trend of total sales over Outlet Establishment Year.<br>
 e) Sales by Outlet Size (Pie Chart)<br>
-Shows the distribution of total sales across different Outlet Size categories.<br>
+&nbsp;&nbsp;&nbsp;Shows the distribution of total sales across different Outlet Size categories.<br>
 f) Sales by Outlet Location (Bar Plot)<br>
-Visualizes total sales for each Outlet Location Type, sorted in descending order.<br>
+&nbsp;&nbsp;&nbsp;Visualizes total sales for each Outlet Location Type, sorted in descending order.<br>
 
 ### 8.Results<br>
 The analysis provides insights into:<br>
