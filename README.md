@@ -14,7 +14,7 @@ This repository contains a comprehensive analysis of Blinkit's sales performance
 10. Contact Information<br>
 
 ### 1.Business Requirement<br>
-The primary objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, <br> and inventory distribution to identify key insights and opportunities for optimization. This is achieved by calculating various KPIs and <br> generating insightful visualizations using Python.<br>
+The primary objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, <br> and inventory distribution to identify key insights and opportunities for optimization. This is achieved by calculating various KPIs <br> and generating insightful visualizations using Python.<br>
 
 ### 2.KPIs Requirements<br>
 The following Key Performance Indicators (KPIs) were calculated:<br>
@@ -72,7 +72,7 @@ To run this analysis, you need to have Python installed along with the following
 ### 6.Data Preprocessing <br>
 The following data preprocessing steps were performed:<br>
 • Loading Data: The blinkit_data.csv file is loaded into a pandas DataFrame.<br>
-• Standardizing 'Item Fat Content': The Item Fat Content column had inconsistent values ('low fat', 'LF', 'reg'). These were standardized<br> to 'Low Fat' and 'Regular'.<br>
+• Standardizing 'Item Fat Content': The Item Fat Content column had inconsistent values ('low fat', 'LF', 'reg'). These were standardized to 'Low Fat' and 'Regular'.<br>
 
 ### 7.Analysis and Visualizations<br>
 #### A) KPI Calculations<br>
